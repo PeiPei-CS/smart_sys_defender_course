@@ -1,0 +1,4 @@
+﻿group,final_accuracy_percent,mean_accuracy_percent,peak_accuracy_percent,peak_round,final_loss,rounds
+clean,100.0,88.25,100.0,6,2.267551,10
+fedavg,13.0,11.75,13.0,8,2.309738,10
+trimmed,100.0,84.20,100.0,8,2.274243,10
